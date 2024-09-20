@@ -1,0 +1,8 @@
+Jul 07, 2024 7:13:17 PM M4_java8.Task4_5.Test4 main
+INFO: Product(name=pen, price=3450, category=non eletronic, grade=A)
+Jul 07, 2024 7:13:17 PM M4_java8.Task4_5.Test4 main
+INFO: Product(name=cell, price=25, category=eletronic, grade=B)
+Jul 07, 2024 7:13:17 PM M4_java8.Task4_5.Test4 main
+INFO: Product(name=battery, price=255, category=eletronic, grade=C)
+Jul 07, 2024 7:13:17 PM M4_java8.Task4_5.Test4 main
+INFO: Product(name=scale, price=2555, category=non eletronic, grade=D)
